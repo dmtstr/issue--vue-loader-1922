@@ -1,0 +1,1 @@
+import SharedComponent from '../../shared/shared-component.vue'
