@@ -1,3 +1,3 @@
 <template>
-    <div>Module B</div>
+    <div>Shared component</div>
 </template>
